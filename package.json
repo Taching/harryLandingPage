@@ -1,9 +1,10 @@
 {
-  "name": "Harry, Landing page",
+  "name": "HarryCo.Ltd",
   "version": "0.0.1",
-  "description": "Gatsby Starter",
-  "repository": {
-    "type": "git"
+  "description": "Gatsby.js V2 starter template",
+  "author": {
+    "name": "Anubhav Srivastava",
+    "email": "anubhav.srivastava00@gmail.com"
   },
   "dependencies": {
     "@react-spring/three": "^9.0.0-beta.33",
